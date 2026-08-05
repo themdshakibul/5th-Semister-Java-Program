@@ -19,8 +19,14 @@ class Method_overloding{
 public class InnerMethod_overloding {
     public static void main(String [] args){
         Method_overloding obj = new Method_overloding();
+
         obj.info("Md Shakibul Islam");
+        System.out.println();
+
         obj.info("Md Shakibul Islam", 20);
+        System.out.println();
+
         obj.info("Md Shakibul Islam", 20, "CSE");
+        System.out.println();
     }
 }
