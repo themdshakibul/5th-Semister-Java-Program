@@ -1,1 +1,1 @@
-all comon wisth 5 th semmister
+all comon wisth 5 & 4th semmister
